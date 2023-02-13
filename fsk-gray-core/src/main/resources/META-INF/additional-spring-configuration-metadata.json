@@ -1,0 +1,12 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "fsk.global.gray.client.beat-interval",
+      "type": "java.lang.Long",
+      "defaultValue": 10,
+      "description": "Heartbeat interval time, heartbeat packets between grayscale node and registration center."
+    }
+  ],
+  "hints": []
+}
